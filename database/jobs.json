@@ -408,5 +408,20 @@
     "mode_label": "📦 Release Build",
     "log_chat_id": -1004433503613,
     "log_msg_id": 1866
+  },
+  "mr4fsy4cafts": {
+    "job_id": "mr4fsy4cafts",
+    "release_id": 348415343,
+    "release_tag": "build-mr4fsy4cafts",
+    "run_id": 28638574973,
+    "user_id": 7624553156,
+    "created_at": "2026-07-03T04:32:34.125Z",
+    "build_type": "release",
+    "only_analyze": "false",
+    "dev_name": "@AzmiTZY",
+    "project_name": "ZIP Upload",
+    "mode_label": "📦 Release Build",
+    "log_chat_id": -1004433503613,
+    "log_msg_id": 1869
   }
 }
