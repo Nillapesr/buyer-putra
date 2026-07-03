@@ -453,5 +453,20 @@
     "mode_label": "📦 Release Build",
     "log_chat_id": -1004433503613,
     "log_msg_id": 1873
+  },
+  "mr4usxb6pcgb": {
+    "job_id": "mr4usxb6pcgb",
+    "release_id": 348576686,
+    "release_tag": "build-mr4usxb6pcgb",
+    "run_id": 28657804674,
+    "user_id": 8806986845,
+    "created_at": "2026-07-03T11:32:29.854Z",
+    "build_type": "release",
+    "only_analyze": "false",
+    "dev_name": "@na24die",
+    "project_name": "ZIP Upload",
+    "mode_label": "📦 Release Build",
+    "log_chat_id": -1004433503613,
+    "log_msg_id": 1876
   }
 }
